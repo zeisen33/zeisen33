@@ -1,6 +1,8 @@
 ### Hello!
 
-I am a 2023 App Academy graduate. I took their bootcamp prep course, then their Software Engineering course. At App Academy, I learned JavaScript, Ruby on Rails, Java, React, Redux, SQL, and more skills for both frontend and backend software development.
+I am a software engineer at Silver Lion Student Loan Advisors, currently revamping the company's website, and thoroughly enjoying it! Sadly, this is a short term position, so I am looking for a full time, long term development job.
+
+I learned software engineering from App Academy in 2023. I took their bootcamp prep course, then their Software Engineering course. At App Academy, I learned JavaScript, Ruby on Rails, React, Redux, SQL, and more skills for both frontend and backend software development.
 
 I've enjoyed all my programming work and now am seeking work in software engineering. I am constantly learning and developing my skills. I enjoy problem solving and learning about this rapidly evolving field.
 
